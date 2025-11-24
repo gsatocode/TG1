@@ -37,7 +37,7 @@ Integração de rotinas automatizadas para processamento de dados.
 **Stack:** `Figma` `HTML` `CSS` `Flask` `Git`
 
 #### Desafio
-Muitas equipes enfrentavam dificuldades em compreender e aplicar corretamente o método ágil **Scrum**, o que gerava **baixa produtividade**, **falhas na comunicação** e **dificuldade em organizar entregas iterativas**.
+As equipes iniciantes tinham dificuldade em **entender a aplicação prática do Scrum**, especialmente na definição de papéis, cerimônias e ciclos de sprint. Como os conteúdos estavam dispersos em diferentes fontes, surgiam **interpretações inconsistentes**, baixa adoção da metodologia e falta de padronização nos projetos.
 
 #### Solução Desenvolvida
 O **ScrumTutor** foi desenvolvido como um **site interativo e intuitivo** que centraliza informações e boas práticas sobre o **método Scrum**, tornando o aprendizado mais acessível e dinâmico.
@@ -66,7 +66,7 @@ Aprendi a **motivar o grupo** e **resolver conflitos**, garantindo o progresso c
 **Stack:** `Figma` `Java` `LangChain` `LM Studio` `Git`
 
 #### Desafio
-Os colaboradores da empresa precisavam consultar dados em SQL, mas **não possuíam conhecimento técnico**, o que causava **dependência do setor de TI** e **lentidão no acesso às informações**.
+Os colaboradores precisavam acessar dados, mas dependiam do setor de TI para formular queries SQL. Essa limitação causava **acúmulo de solicitações**, atrasos na resposta e risco de consultas incorretas quando tentadas por usuários sem conhecimento técnico.
 
 #### Solução Desenvolvida
 Foi criada uma **aplicação desktop em Java** que interpreta **comandos em linguagem natural** e os converte automaticamente em **consultas SQL válidas**, com suporte a **LLM local via LangChain**.
@@ -94,7 +94,7 @@ Fui **proativo** ao estudar **Java** e **LangChain** para solucionar gargalos t�
 **Stack:** `Figma` `PostgreSQL` `Node.js` `TypeScript` `React` `Firebase` `Git`
 
 #### Desafio
-A empresa realizava **pesquisas de clima organizacional** de forma **manual e descentralizada**, dificultando a consolidação dos dados e atrasando as análises.
+O processo de aplicação das pesquisas de clima organizacional era **manual e fragmentado**, utilizando formulários e planilhas desconectadas. Isso dificultava a consolidação dos resultados, atrasava as análises e comprometia a tomada de decisões estratégicas.
 
 #### Solução Desenvolvida
 Foi criada uma **aplicação web em React** que permite **criar pesquisas de clima personalizadas**, armazenar as respostas no **PostgreSQL** e **visualizar resultados em tempo real**, trazendo **agilidade e clareza** ao processo.
@@ -123,7 +123,7 @@ Enfrentei **divergências na modelagem de dados** e utilizei **comunicação e e
 **Stack:** `Figma` `PostgreSQL` `Node.js` `TypeScript` `React` `Firebase` `Git` `IA`
 
 #### Desafio
-A empresa não possuía um **sistema unificado** para gerenciar **projetos, equipes e orçamentos**, dificultando o controle e a comunicação entre setores.
+Os projetos da empresa estavam distribuídos entre planilhas, documentos e canais de comunicação separados, sem integração entre **tarefas, equipes, prazos e orçamentos**. Essa falta de centralização dificultava o monitoramento e aumentava o retrabalho.
 
 #### Solução Desenvolvida
 Foi desenvolvida uma **plataforma web integrada** para **gestão de projetos**, com **etapas e tarefas interligadas**, **indicadores de progresso** e **chat de IA** para suporte ao usuário.
@@ -153,7 +153,7 @@ Trabalhei com **colaboração e pensamento crítico** na **refatoração do cód
 **Stack:** `Figma` `MongoDB` `FastAPI` `TypeScript` `React Native` `Python` `Git`
 
 #### Desafio
-Em áreas rurais, moradores **não possuem endereços reconhecidos por apps de navegação**, dificultando o acesso a **serviços básicos e entregas**.
+Moradores de regiões rurais utilizavam descrições informais como referência (“perto da árvore”, “ao lado do rio”), dificultando entregas, visitas técnicas e atendimentos de emergência. Não existia um meio unificado para **converter coordenadas geográficas em um endereço digital padronizado**.
 
 #### Solução Desenvolvida
 Desenvolvemos uma **aplicação mobile e web** em **React Native e FastAPI**, que permite **registrar pontos georreferenciados** vinculados ao **CPF e código CAR**, transformando o local em um **endereço digital único**.  
